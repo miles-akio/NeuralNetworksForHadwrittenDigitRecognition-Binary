@@ -2,7 +2,7 @@
 
 
 ````markdown
-# Practice Lab: Neural Networks for Handwritten Digit Recognition (Binary)
+# Lab: Neural Networks for Handwritten Digit Recognition (Binary)
 
 This lab demonstrates how to build and train a neural network to recognize handwritten digits **0 and 1** using both **TensorFlow/Keras** and **NumPy** implementations. The exercise covers dataset exploration, model representation, TensorFlow implementation, and forward propagation in NumPy.
 
