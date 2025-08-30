@@ -35,7 +35,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 import matplotlib.pyplot as plt
 from autils import *
-````
+
 
 ---
 
@@ -153,5 +153,4 @@ At this stage, you’ve:
 
 ```
 
-Would you like me to also include **diagram(s)** in the README (e.g., a neural network architecture figure or sample digit visualization), or should I keep it strictly text-based?
-```
+````
